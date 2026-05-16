@@ -1,0 +1,40 @@
+{
+  "activeBackend": "qt6-multimedia",
+  "automationMode": "random",
+  "automationTime": 300,
+  "fillMode": "fit",
+  "mpvSocket": "/tmp/mpv-socket",
+  "profile": "default",
+  "volume": 1,
+  "wallpapersFolder": "/home/night/Videos",
+  "thumbCacheReady": true,
+  "eDP-2": {
+    "currentWallpaper": "/home/night/Videos/FLYING KOI [413258519].mp4",
+    "noctaliaWallpaper": "/home/night/Pictures/Wallpapers/great-wave.png",
+    "isPlaying": true,
+    "volume": 0,
+    "automation": false,
+    "automationMode": "random",
+    "automationTime": 300,
+    "hardwareAcceleration": false,
+    "profile": "default",
+    "fillMode": "crop",
+    "orientation": 0
+  },
+  "DP-1": {
+    "currentWallpaper": "/home/night/Videos/FLYING KOI [413258519].mp4",
+    "noctaliaWallpaper": "/home/night/Pictures/Wallpapers/great-wave.png",
+    "isPlaying": true,
+    "volume": 0,
+    "automation": false,
+    "automationMode": "random",
+    "automationTime": 300,
+    "hardwareAcceleration": false,
+    "profile": "default",
+    "fillMode": "fit",
+    "orientation": 0
+  },
+  "enabled": true,
+  "monitorSpecific": true,
+  "automationCustomTime": []
+}
