@@ -12,7 +12,7 @@
 
     cursor {
         xcursor-theme "macOS-White"
-        xcursor-size 28
+        xcursor-size 32
     }
 
     debug {
