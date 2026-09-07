@@ -4,3 +4,9 @@
 	signingKey = 1B9A13F5DEBCD6B31763EAC94B95A8A6BF0B54B4
 [commit]
 	gpgSign = true
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
